@@ -1,0 +1,10 @@
+flask
+flask_restful
+numpy
+pandas
+nltk
+sklearn
+joblib
+httplib2
+gspread
+google-api-python-client
